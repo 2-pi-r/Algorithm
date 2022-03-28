@@ -119,4 +119,9 @@
 ### 출력 
 
  <p>첫째 줄에 평문을 출력한다.</p>
-
+ 
+ 
+ 
+ 
+### 힌트 (내 풀이방법)
+<p>![Edoc](https://user-images.githubusercontent.com/87740183/160450066-14502d81-8aed-4630-ad59-9800e46908b6.jpg) </p>
