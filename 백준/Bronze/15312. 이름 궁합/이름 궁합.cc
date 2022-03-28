@@ -1,3 +1,11 @@
+/*
+풀이방법 :
+벡터 result에 이름의 각 알파벳 획수를 저장한다.
+result의 원소 둘씩 더해서, 그 일의자리 값을 벡터 temp에 담는다.
+다 더하고 나면 둘을 swap해서 result에 획수의 합들이 저장되도록 한다.
+둘씩 더하고 swap하기를 반복하다가, sesult의 원소가 두 개이면 출력한다.
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
