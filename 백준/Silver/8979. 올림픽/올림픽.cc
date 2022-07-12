@@ -7,7 +7,7 @@ int main() {
 	vector<long long> medal(N + 1);
 
 	int country, gold, silver, bronze;
-    long long M = 1000000; //전체 메달 수의 총합은 1,000,000 이하
+        long long M = 1000000; //전체 메달 수의 총합은 1,000,000 이하
 	while (N--) {
 		cin >> country >> gold >> silver >> bronze;
 		medal[country] = M*M*gold + M*silver + bronze;
